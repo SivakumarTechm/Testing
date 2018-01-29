@@ -1,2 +1,2 @@
 language: csharp
-solution: aspnet-4.sln
+solution: aspnet4-solution.sln
